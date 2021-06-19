@@ -9,12 +9,46 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "next": "11.0.0",
+    "next-images": "^1.8.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.0",
+    "svg-inline-react": "^3.2.0",
+    "swr": "^0.5.6",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@zeit/next-css": "^1.0.1",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "next-pwa": "^5.0.6",
+    "next-redux-wrapper": "^6.0.2",
+    "react-redux": "^7.2.2",
+    "react-svg-inline": "^2.1.1",
+    "redux": "^4.0.5",
+    "webpack": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "7.29.0",
-    "eslint-config-next": "11.0.0"
+    "eslint": "^7.29.0",
+    "@types/axios": "^0.14.0",
+    "@types/node": "^15.12.4",
+    "@types/react": "^17.0.11",
+    "@types/styled-components": "^5.1.10",
+    "eslint-config-next": "11.0.0",
+    "@types/react-redux": "^7.1.16",
+    "@types/react-svg-inline": "^2.1.1",
+    "@types/redux": "^3.6.0",
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "babel-plugin-styled-components": "^1.12.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "typescript": "^4.2.2"
   }
 }
